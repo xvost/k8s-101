@@ -3,7 +3,7 @@
 ```
 cd ../4/
 ```
-
+[Deployment](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
 ## создаем неймспейс и сервис
 
 ```

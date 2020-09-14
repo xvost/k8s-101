@@ -1,5 +1,7 @@
 # Урок про POD
 
+Что такое [POD](https://kubernetes.io/docs/concepts/workloads/pods/)
+
 ```
 cd 1/
 ```

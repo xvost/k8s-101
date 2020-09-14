@@ -4,7 +4,7 @@
 ```
 cd ../3/
 ```
-
+[ReplicaSet](https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/)
 ## создаем под
 ```
 kubectl apply -f 3-nginx-rs.yaml

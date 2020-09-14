@@ -3,6 +3,9 @@
 ```
 cd ../2/
 ```
+[Service](https://kubernetes.io/docs/concepts/services-networking/service/)
+
+[Namespace](https://kubernetes.io/docs/concepts/overview/working-with-objects/namespaces/)
 
 ## создаем неймспейс и сервис
 ```
